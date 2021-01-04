@@ -1504,7 +1504,7 @@
 											"top": 351,
 											"width": 110,
 											"height": 13,
-											"text": "A-entity"
+											"text": "A-image"
 										},
 										{
 											"_type": "LabelView",
@@ -1576,7 +1576,7 @@
 											"top": 374,
 											"width": 110,
 											"height": 13,
-											"text": "+Im: Image",
+											"text": "+position",
 											"horizontalAlignment": 0
 										},
 										{
@@ -5309,9 +5309,9 @@
 										"$ref": "AAAAAAF2PFqIxtwCa7w="
 									},
 									"font": "Arial;13;0",
-									"left": 696,
+									"left": 695,
 									"top": 558,
-									"width": 5.05908203125,
+									"width": 6.5,
 									"height": 13,
 									"alpha": 0.5235987755982988,
 									"distance": 25,
@@ -5762,7 +5762,7 @@
 					"_parent": {
 						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
 					},
-					"name": "A-entity",
+					"name": "A-image",
 					"attributes": [
 						{
 							"_type": "UMLAttribute",
@@ -5770,8 +5770,7 @@
 							"_parent": {
 								"$ref": "AAAAAAF2GAe03tXAlKU="
 							},
-							"name": "Im",
-							"type": "Image"
+							"name": "position"
 						},
 						{
 							"_type": "UMLAttribute",
