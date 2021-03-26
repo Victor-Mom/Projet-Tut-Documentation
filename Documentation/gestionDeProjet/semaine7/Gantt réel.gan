@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><project name="Panoramix" company="" webLink="http://" view-date="2020-11-15" view-index="0" gantt-divider-location="551" resource-divider-location="300" version="2.8.11" locale="fr">
+<?xml version="1.0" encoding="UTF-8"?><project name="Panoramix" company="" webLink="http://" view-date="2020-11-01" view-index="0" gantt-divider-location="551" resource-divider-location="300" version="2.8.11" locale="fr">
     <description/>
-    <view zooming-state="default:6" id="gantt-chart">
+    <view zooming-state="default:8" id="gantt-chart">
         <field id="tpd3" name="Nom" width="329" order="0"/>
         <field id="tpd4" name="Date de début" width="77" order="1"/>
         <field id="tpd5" name="Date de fin" width="139" order="2"/>
         <option id="color.recent">
-            <![CDATA[#33ff33 #ff00ff #00ffff #0000ff #ffff00 #f4f4f4]]>
+            <![CDATA[#ff00ff #00ffff #33ff33 #0000ff #ffff00 #f4f4f4]]>
         </option>
     </view>
     <view id="resource-table">
@@ -275,12 +275,14 @@
         <task id="41" name="Analyse du générateur (Clara-Lucile)" color="#33ff33" meeting="false" start="2020-12-23" duration="21" complete="0" thirdDate="2020-11-09" thirdDate-constraint="0" expand="true"/>
         <task id="39" name="Codage de la carte du panorama (Clément-Enzo)" color="#00ffff" meeting="false" start="2020-11-30" duration="21" complete="0" thirdDate="2020-11-30" thirdDate-constraint="0" expand="true"/>
         <task id="40" name="Gestion de la portabilité du panorama" color="#00ffff" meeting="false" start="2020-11-26" duration="9" complete="0" thirdDate="2020-11-09" thirdDate-constraint="0" expand="true"/>
+        <task id="73" name="Création des vues du Générateur" color="#ff00ff" meeting="false" start="2020-12-22" duration="18" complete="0" thirdDate="2020-12-13" thirdDate-constraint="0" expand="true"/>
         <task id="51" name="Préparation soutenance intermédiaire" color="#33ff33" meeting="false" start="2021-01-04" duration="7" complete="0" thirdDate="2021-01-11" thirdDate-constraint="0" expand="true"/>
-        <task id="42" name="Codage du formlaire permettant l'ajout des photos" color="#ff00ff" meeting="false" start="2021-01-30" duration="9" complete="0" thirdDate="2020-11-09" thirdDate-constraint="0" expand="true"/>
-        <task id="43" name="Codage de l'ajout des points de navigation" color="#ff00ff" meeting="false" start="2021-01-28" duration="12" complete="0" thirdDate="2020-11-09" thirdDate-constraint="0" expand="true"/>
-        <task id="44" name="Codage de l'ajout de panneaux informatifs" color="#ff00ff" meeting="false" start="2021-02-08" duration="5" complete="0" thirdDate="2020-11-09" thirdDate-constraint="0" expand="true"/>
+        <task id="42" name="Codage du formlaire permettant l'ajout des photos" color="#ff00ff" meeting="false" start="2021-01-22" duration="21" complete="0" thirdDate="2020-11-09" thirdDate-constraint="0" expand="true"/>
+        <task id="43" name="Codage de l'ajout des points de navigation" color="#ff00ff" meeting="false" start="2021-01-22" duration="21" complete="0" thirdDate="2020-11-09" thirdDate-constraint="0" expand="true"/>
+        <task id="44" name="Codage de l'ajout de panneaux informatifs" color="#ff00ff" meeting="false" start="2021-02-12" duration="20" complete="0" thirdDate="2020-11-09" thirdDate-constraint="0" expand="true"/>
         <task id="50" name="Codage de la création de la carte" color="#ff00ff" meeting="false" start="2021-02-12" duration="20" complete="0" thirdDate="2020-11-09" thirdDate-constraint="0" expand="true"/>
-        <task id="72" name="Codage de la sauvegarde et de la génération" color="#8cb6ce" meeting="false" start="2021-03-01" duration="15" complete="0" thirdDate="2021-03-15" thirdDate-constraint="0" expand="true"/>
+        <task id="75" name="Amélioration du Panorama" color="#00ffff" meeting="false" start="2021-01-18" duration="45" complete="0" thirdDate="2020-12-06" thirdDate-constraint="0" expand="true"/>
+        <task id="72" name="Codage de la sauvegarde et de la génération" color="#ff00ff" meeting="false" start="2021-03-01" duration="18" complete="0" thirdDate="2021-03-15" thirdDate-constraint="0" expand="true"/>
         <task id="53" name="Rédaction rapport final" color="#33ff33" meeting="false" start="2021-03-15" duration="14" complete="0" thirdDate="2021-03-15" thirdDate-constraint="0" expand="true"/>
         <task id="52" name="Préparation soutenance finale" color="#33ff33" meeting="false" start="2021-03-15" duration="14" complete="0" thirdDate="2021-03-15" thirdDate-constraint="0" expand="true"/>
     </tasks>
